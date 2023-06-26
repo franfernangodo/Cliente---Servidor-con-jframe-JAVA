@@ -57,6 +57,6 @@ En futuras versiones del proyecto, se podrían abordar estas limitaciones y mejo
 
 ## Conclusiones
 
-El proyecto Cliente-Servidor ha proporcionado una introducción básica a la implementación de una comunicación cliente-servidor utilizando sockets TCP/IP y una interfaz gráfica. A
+El proyecto Cliente-Servidor ha proporcionado una introducción básica a la implementación de una comunicación cliente-servidor utilizando sockets TCP/IP y una interfaz gráfica.
 
-unque es un proyecto simple, sienta las bases para el desarrollo de aplicaciones más complejas y brinda una oportunidad para aprender sobre conceptos como la programación de redes y la interacción con interfaces gráficas en Java.
+Aunque es un proyecto simple, sienta las bases para el desarrollo de aplicaciones más complejas y brinda una oportunidad para aprender sobre conceptos como la programación de redes y la interacción con interfaces gráficas en Java.
